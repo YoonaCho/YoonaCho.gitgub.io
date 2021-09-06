@@ -1,12 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/YoonaCho/YoonaCho.gitgub.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+안녕하세요? 환영합니다!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
 
-### Markdown
+이화여자대학교 건축도시시스템공학전공
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+이화여자대학교 벤처경영학사 부전공
 
 ```markdown
 Syntax highlighted code block
