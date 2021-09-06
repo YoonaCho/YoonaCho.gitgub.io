@@ -1,12 +1,23 @@
-## Welcome to GitHub Pages
+## Yoona Cho 
 
 안녕하세요? 환영합니다!
 
+Welcome to my webpage! 
+
 ### 소속
+
+대일외국어고등학교 33기 영어과
 
 이화여자대학교 건축도시시스템공학전공
 
 이화여자대학교 벤처경영학사 부전공
+
+Daeil Foreign Language High. 33rd English major(Spanish minor) 
+
+EHWA Woman's UNIV. Architectural & Urban Systems Enginnering major
+
+EHWA Woman's UNIV. Entrepreneurship and Venture Management minor
+
 
 ```markdown
 Syntax highlighted code block
