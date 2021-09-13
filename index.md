@@ -4,6 +4,8 @@
 
 Welcome to my webpage! 
 
+![HANY]KakaoTalk_20210818_220914682.jpg
+
 ### 소속
 
 대일외국어고등학교 33기 영어과
